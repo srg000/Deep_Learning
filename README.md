@@ -1,15 +1,15 @@
 # 深度学习在图像处理中的应用
 
 * 图像分类
-  * LeNet
+  * LeNet（已完成）
  
-  * AlexNet
+  * AlexNet（已完成）
 
-  * VggNet
+  * VggNet（已完成）
 
-  * GoogLeNet
+  * GoogLeNet（已完成）
  
-  * ResNet
+  * ResNet（已完成）
 
   * Vision Transformer
 
