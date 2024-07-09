@@ -23,11 +23,13 @@
   * MobileViT
 
 * 目标检测
-  * Faster-RCNN/FPN
+  * Faster-RCNN/FPN（已完成）
 
   * SSD/RetinaNet
 
-  * YOLO Series
+  * [YOLOv10（已完成）](https://github.com/srg000/yolov10)
+    
+  * YOLOv8
 
   * FCOS
 
