@@ -14,9 +14,11 @@
  
   * ResNet（已完成）
 
-  * Vision Transformer
+  * Vision Transformer（已完成）
 
   * Swin Transformer
+
+  * RepVGG
 
   * ConvNeXt
 
