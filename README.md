@@ -16,7 +16,7 @@
 
   * Vision Transformer（已完成）
 
-  * Swin Transformer
+  * Swin Transformer（已完成）
 
   * RepVGG
 
@@ -30,6 +30,8 @@
   * SSD/RetinaNet
 
   * [YOLOv10（已完成）](https://github.com/srg000/yolov10)
+
+  * DETR
     
   * YOLOv8
 
